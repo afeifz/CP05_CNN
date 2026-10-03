@@ -125,7 +125,9 @@ CP05_CNN/
 ## Dificuldades encontradas
 
 • Adaptar imagens monocromáticas de 28×28 para a entrada RGB exigida pelo MobileNetV2.
+
 • Definir uma estratégia de Fine-Tuning sem descongelar todo o backbone.
+
 • Controlar o treinamento com learning rate menor na etapa de ajuste fino.
 
 ## Conclusão
