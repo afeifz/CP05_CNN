@@ -91,7 +91,7 @@ No conjunto de teste também é apresentado:
 ## Estrutura da pasta
 
 ```text
-MedMNIST_PneumoniaMNIST_MobileNetV2/
+CP05_CNN/
 │
 ├── codigo/
 │   └── checkpoint1_pneumoniamnist_mobilenetv2.ipynb
@@ -120,7 +120,7 @@ MedMNIST_PneumoniaMNIST_MobileNetV2/
 ## Link do vídeo
 
 
-**Vídeo:** ______________________________________________
+**Vídeo:** https://youtu.be/yiCCB9F4icc
 
 ## Dificuldades encontradas
 
