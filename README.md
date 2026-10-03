@@ -1,4 +1,4 @@
-# Checkpoint 1 — CNN + Transfer Learning
+# Checkpoint 5 — CNN + Transfer Learning
 
 ## Projeto
 
